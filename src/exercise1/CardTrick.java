@@ -6,7 +6,8 @@ package exercise1;
  * To be used as starting code in Exercise
  *
  * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author yadavpiy feb 06, 2023
+ have mase changes on gitHub.com
  */
 public class CardTrick {
     
@@ -38,7 +39,7 @@ public class CardTrick {
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
-     * @author Paul Bonenfant Jan 2022
+     * @author yadavpiy 6/02/2023
      */
     private static void printInfo() {
     
@@ -60,6 +61,10 @@ public class CardTrick {
         System.out.println("-- Riding my motorcycle");
 
         System.out.println();
+	    
+	   /** @author Piyush Yadav feb 06, 2023
+ have mase changes on gitHub.com
+ */
         
     
     }
